@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Stroke_inputs",
+      "appliesTo": "Stroke_inputs.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Stroke_inputs",
+      "appliesTo": "Stroke_inputs.cpp",
+      "type": "launch"
+    }
+  ]
+}
